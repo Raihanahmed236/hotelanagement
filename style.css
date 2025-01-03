@@ -1,0 +1,31 @@
+body   {
+    margin:0; 
+
+}
+a    {
+    text-decoration: none;
+    color:#fff;
+}
+
+#header{
+    background-color: #f85606;
+    color:#fff;
+    
+}
+#one   { 
+    margin-left: 500px;
+   display: flex;
+   justify-content: space-between;
+    font-size: 12px;
+    padding: 10px;
+}
+   
+
+
+#two    {   
+    display: flex;
+    
+}
+#s{
+    height: 50px;
+}
